@@ -281,12 +281,6 @@ img9.addEventListener("mouseleave", function () {
 })
 
 
-
-
-
-
-
-
 var flag = 0
 var arrow = document.querySelector("button i")
 var list = document.querySelector(".list")
