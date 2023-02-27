@@ -1,0 +1,132 @@
+@media (max-width:600px) {
+    nav{
+        display: none;
+    }
+    .part1{
+        height: 85vh;
+    }
+    .img{
+        height: 100vh;
+        object-fit: cover;
+
+    }
+    .swiper--slide h1{
+        font-size: 7vmax;
+        top: 35%;
+    }
+    .swiper--slide h6{
+        font-size: 2vmax;
+        top: 25%;
+    }
+    .swiper--slide .btn1{
+        padding: 10px;
+        font-size: 1.5vmax;
+        top: 50%;
+        border: none;
+
+    }
+    .swiper--slide .btn2{
+        padding: 10px;
+        font-size: 1.5vmax;
+        top: 50%;
+        border: none;
+    }
+    .part2 h1{
+        /* left: 20%; */
+    }
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #B7B7B7;
+        height: 74% !important;
+        margin-right: 10px !important;
+        /* background-color: aqua; */
+        width: 49% !important;
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        position: relative;
+        
+    }
+    .part3 {
+        /* position: relative; */
+        margin-top: -19%;
+    height: 100vh;
+
+    }
+    .part4 {
+        /* position: relative; */
+        margin-top: -27.6%;
+    height: 100vh;
+    padding: 0;
+    }
+    .part5 {
+        /* position: relative; */
+        margin-top: -38%;
+    height: 100vh;
+    padding: 0;
+    }
+    .part3-content{
+        position: relative;
+        height: 10vh;   
+    }
+    .part4-content{
+        position: relative;
+        display: flex   ;
+        flex-direction: column;
+        height: 10vh;
+    }
+    .part5-content{
+        position: relative;
+        display: flex   ;
+        flex-direction: column;
+        height: 20vh;
+    }
+    .part4-content h3{
+        font-size: 8vmax;
+    }
+    .part3-content h3{
+        font-size: 8vmax;
+    }
+    
+    .part3-content button{
+        font-size: 2vmax;
+        /* padding: 5px 10px;    */
+        width: 70%;
+        /* left: 5%; */
+        margin-left: 15%;
+        border: none;
+    }
+    .part5-content button{
+        font-size: 2vmax;
+        /* padding: 5px 10px;    */
+        width: 70%;
+        /* left: 5%; */
+        margin-left: 15%;
+        border: none;
+
+    }
+    .part4-content button{
+        font-size: 2vmax;
+        /* padding: 5px 10px;    */
+        width: 70%;
+        /* left: 5%; */
+        margin-left: 15%;
+        border: none;
+    }
+        .part6-img h2{
+            /* height: 100vh; */
+            position: relative;
+            font-size: 2vmax;
+        }
+        .part6-img p{
+            /* height: 100vh; */
+            position: relative;
+            font-size: 1.5vmax;
+        }
+       .footer{
+        padding-left: 5%;
+       }
+}
